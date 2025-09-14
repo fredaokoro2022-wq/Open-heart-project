@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>OpenHeart Project</title>
+</head>
+<body>
+  <h1>Welcome to OpenHeart</h1>
+  <p>An open-source, privacy-first ECG project bringing heart diagnostics to communities.</p>
+  <h2>About</h2>
+  <p>OpenHeart is developing open hardware ECG kits, open-source analysis software, and community health programs to make life-saving diagnostics accessible for all.</p>
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://github.com/yourusername/OpenHeart-Project">GitHub Repository</a></li>
+    <li><a href="mailto:your.email@example.com">Contact Us</a></li>
+  </ul>
+</body>
+</html>
+  
